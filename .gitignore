@@ -1,0 +1,11 @@
+*.tar
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.pth
+*.model
+*.profile
+/src/data/*
